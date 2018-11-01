@@ -1,0 +1,14 @@
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\bin\Debug\netcoreapp2.1\APIAssignment.deps.json
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\bin\Debug\netcoreapp2.1\APIAssignment.runtimeconfig.json
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\bin\Debug\netcoreapp2.1\APIAssignment.runtimeconfig.dev.json
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\bin\Debug\netcoreapp2.1\APIAssignment.dll
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\bin\Debug\netcoreapp2.1\APIAssignment.pdb
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\obj\Debug\netcoreapp2.1\APIAssignment.csprojAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\obj\Debug\netcoreapp2.1\APIAssignment.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\obj\Debug\netcoreapp2.1\APIAssignment.RazorAssemblyInfo.cache
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\obj\Debug\netcoreapp2.1\APIAssignment.RazorAssemblyInfo.cs
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\obj\Debug\netcoreapp2.1\APIAssignment.AssemblyInfoInputs.cache
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\obj\Debug\netcoreapp2.1\APIAssignment.AssemblyInfo.cs
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\obj\Debug\netcoreapp2.1\APIAssignment.RazorTargetAssemblyInfo.cache
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\obj\Debug\netcoreapp2.1\APIAssignment.dll
+d:\Documents\Visual Studio 2017\Projects\APIAssignment\APIAssignment\obj\Debug\netcoreapp2.1\APIAssignment.pdb
